@@ -6,7 +6,7 @@ export default function Navbar() {
         <h1 className="text-xl font-bold tracking-tight">Shared Todo List</h1>
       </div>
       <p className="text-blue-200 text-sm hidden sm:block">
-        Semua orang bisa melihat & menambah todo di sini
+        Penyimpnanan akun is coming soon
       </p>
     </nav>
   );
